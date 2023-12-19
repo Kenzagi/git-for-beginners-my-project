@@ -1,1 +1,3 @@
-weclome to my project!
+Weclome to my project!
+
+Author: Khaya
