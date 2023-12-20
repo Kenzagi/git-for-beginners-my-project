@@ -1,4 +1,4 @@
 Weclome to my project!
 
-Author: Khaya
+Author: Khaya Gumede
 Twitter: @mbuyiii_
