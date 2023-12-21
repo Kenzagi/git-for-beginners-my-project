@@ -2,4 +2,4 @@ Weclome to "Git for beginners" for my project!
 
 Author: Khaya Spha Gumede
 Twitter: @mbuyiii_
-Website: www.kenxzagi.com
+Website: https://www.kenxzagi.com
